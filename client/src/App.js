@@ -35,7 +35,7 @@ function App() {
         }}
       />
       <button onClick={joinRoom}>Join Room</button>
-      <br/>
+      <br />
       <input
         placeholder="Message..."
         onChange={(e) => {
